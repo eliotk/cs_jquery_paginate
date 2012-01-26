@@ -1,3 +1,4 @@
+/* compiled javascript from coffeescript */
 (function() {
 
   'A simple jQuery plugin to paginate items on a page written in CoffeeScript';
